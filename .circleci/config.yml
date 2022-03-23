@@ -5,7 +5,7 @@ jobs:
       - image: circleci/python:3.6.1
       
 
-    working_directory: ~/hello
+    working_directory: ~/hello/hello
 
     steps:
       - checkout
